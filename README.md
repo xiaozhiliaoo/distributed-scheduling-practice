@@ -2,6 +2,8 @@
 
 分布式调度 Distributed Scheduling，集群调度 Cluster Scheduling
 
+Website: https://xiaozhiliaoo.github.io/distributed-scheduling-practice/
+
 ## Book
 [国内外书籍整理](./book)
 
@@ -19,6 +21,3 @@
 
 ## Daily
 [日常研究](./daily)
-
-## Other
-[数据库以及分布式数据库](https://github.com/xiaozhiliaoo/database-system-practice)
